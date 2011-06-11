@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: IE7-JS
-Plugin URI: http://www.ramoonus.nl
+Plugin URI: http://www.ramoonus.nl/wordpress/ie7-js/
 Description: IE7.js is a JavaScript library to make Microsoft Internet Explorer behave like a standards-compliant browser. It fixes many HTML and CSS issues and makes transparent PNG work correctly under IE5 and IE6. 
 Version: 1.0.0
 Author: Ramoonus
-Author URI: http://www.ramoonus.nl/wordpress/ie7-js/
+Author URI: http://www.ramoonus.nl/
 */
 
 // init
